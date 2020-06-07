@@ -13,5 +13,3 @@ deploy:
   github_token: $GITHUB_REPO_TOKEN
   keep_history: true
   local_dir: build
-  on:
-    branch: master
